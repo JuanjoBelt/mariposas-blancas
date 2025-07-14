@@ -1,0 +1,50 @@
+Compilación de canciones compuestas entre 2024 y 2025 sobre algunas experiencias de la vida.
+
+Canción 1
+Título: Sin Tiempo
+Síntesis: Canción de amor sobre querer acercarse emocionalmente a una persona.
+Archivos: 
+- Pistas/01. Sin Tiempo.wav
+- Letras/01. Sin Tiempo.pdf
+
+Canción 2
+Título: Quiero
+Síntesis: Sobre el amor y la fragilidad.
+Archivos:
+- Pistas/02. Quiero.wav
+- Letras/02. Quiero.pdf
+
+Canción 3
+Título: Hacia Atrás
+Síntesis: Sobre no mirar demasiado al pasado.
+Archivos:
+- Pistas/03. Hacia Atrás.wav
+- Letras/03. Hacia Atrás.pdf
+
+Canción 4
+Título: Mañana Sí
+Síntesis: Para dar ánimos a alguien que pasa por un mal momento.
+Archivos:
+- Pistas/04. Mañana Sí.wav
+- Letras/04. Mañana Sí.pdf
+
+Canción 5
+Título: Dame Un Poco
+Síntesis: Sobre las inseguridades y la tristeza.
+Archivos:
+- Pistas/05. Dame Un Poco.wav
+- Letras/05. Dame Un Poco.pdf
+
+Canción 6
+Título: Quema el Mar
+Síntesis: Sobre el rencor y dejar personas atrás.
+Archivos:
+- Pistas/06. Quema el Mar.wav
+- Letras/06. Quema el Mar.pdf
+
+Canción 7
+Título: 31 de Julio (Sin Ti)
+Síntesis: Sobre perder a alguien.
+Archivos:
+- Pistas/07. 31 de Julio (Sin Ti).wav
+- Letras/07. 31 de Julio (Sin Ti).pdf
